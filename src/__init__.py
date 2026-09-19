@@ -1,1 +1,1 @@
-"""CubeSat ADCS package."""
+
